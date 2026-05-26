@@ -1,0 +1,101 @@
+ID,Nombre_Cliente,Direccion,Ciudad_Origen,Ciudad_Destino,Latitud_Destino,Longitud_Destino,Peso_kg,Volumen_m3,Prioridad,Tiempo_Entrega_Horas,Zona_Ruta,Tipo_Producto,Ventana_Entrega_Inicio,Ventana_Entrega_Fin,Distancia_km_estimada,Costo_estimado_COP,Valor_Declarado_COP,Estado_Paquete,Fecha_Registro
+1,Ramon Castro,Calle 189 #32-46,Bogotá,Bogotá,4.695842,-74.031062,0.24,0.0159,ALTA,10,Local,Documentos,10:00,15:00,11.1,8,78149,En Ruta,2026-05-24 13:17:58.354781
+2,Ana Martinez,Calle 168 #10-69,Bogotá,Bogotá,4.659218,-74.087972,11.24,0.2499,MEDIA,24,Local,Alimentos,09:00,21:00,28.1,22,142871,En Ruta,2026-05-24 13:17:58.356779
+3,Ramon Castro,Calle 82 #37-28,Bogotá,Bogotá,4.783981,-74.088861,20.97,0.2561,MEDIA,15,Local,Muebles,08:00,15:00,15.7,12,714355,Pendiente,2026-05-24 13:17:58.356779
+4,Andres Navarro,Calle 85 #42-78,Bogotá,Bogotá,4.761517,-74.119653,0.69,0.0098,MEDIA,24,Local,Documentos,09:00,21:00,20.3,16,96431,En Ruta,2026-05-24 13:17:58.356779
+5,Luis Fernandez,Calle 197 #9-43,Bogotá,Bogotá,4.787491,-74.057502,12.45,0.3495,URGENTE,7,Local,Muebles,07:00,10:00,22.1,17,702601,Pendiente,2026-05-24 13:17:58.357779
+6,Carmen Soto,Calle 119 #39-34,Bogotá,Bogotá,4.707765,-74.003716,25.95,0.5121,BAJA,30,Local,Electrodoméstico,08:00,23:00,11.0,8,1071362,Pendiente,2026-05-24 13:17:58.357779
+7,Isabel Romero,Calle 51 #25-23,Bogotá,Bogotá,4.713751,-74.121967,0.2,0.0149,MEDIA,13,Local,Documentos,09:00,15:00,10.5,8,32502,Entregado,2026-05-24 13:17:58.357779
+8,Valentina Lozano,Calle 15 #34-17,Bogotá,Bogotá,4.791216,-74.124309,20.88,0.7617,BAJA,44,Local,Materiales,06:00,28:00,8.0,6,776369,Pendiente,2026-05-24 13:17:58.357779
+9,Sofia Rueda,Calle 153 #36-78,Bogotá,Bogotá,4.734696,-74.054913,45.44,1.5978,BAJA,28,Local,Maquinaria,10:00,24:00,7.6,6,1648142,Pendiente,2026-05-24 13:17:58.357779
+10,Fernando Mora,Calle 149 #14-83,Bogotá,Bogotá,4.655161,-74.128648,4.93,0.0619,MEDIA,21,Local,Alimentos,10:00,20:00,23.4,18,96709,En Ruta,2026-05-24 13:17:58.357779
+11,Andres Navarro,Calle 42 #20-51,Bogotá,Bogotá,4.656394,-74.129861,2.6,0.072,MEDIA,21,Local,Libros,07:00,17:00,27.1,21,178195,Entregado,2026-05-24 13:17:58.357779
+12,Carlos Rodriguez,Calle 142 #32-71,Bogotá,Bogotá,4.766104,-74.08443,2.43,0.0401,URGENTE,4,Local,Electrónico,07:00,09:00,20.2,16,954596,Entregado,2026-05-24 13:17:58.357779
+13,Alberto Suarez,Calle 18 #9-23,Bogotá,Barranquilla,10.944911,-74.802875,0.57,0.0074,MEDIA,13,Interdepartamental,Documentos,09:00,15:00,985.0,788,64402,En Ruta,2026-05-24 13:17:58.357779
+14,Maria Gomez,Calle 94 #28-82,Bogotá,Cali,3.469811,-76.531789,38.61,0.852,ALTA,8,Interdepartamental,Electrodoméstico,06:00,10:00,480.0,384,900036,Pendiente,2026-05-24 13:17:58.357779
+15,Alberto Suarez,Calle 146 #38-14,Bogotá,Bucaramanga,7.116555,-73.104969,0.26,0.0098,BAJA,28,Interdepartamental,Documentos,07:00,21:00,410.0,328,88255,En Ruta,2026-05-24 13:17:58.357779
+16,Alberto Suarez,Calle 45 #42-32,Bogotá,Cali,3.453681,-76.521393,12.49,0.4267,MEDIA,19,Interdepartamental,Materiales,10:00,19:00,480.0,384,658519,Entregado,2026-05-24 13:17:58.357779
+17,Ramon Castro,Calle 59 #27-60,Bogotá,Barranquilla,10.966821,-74.804948,51.63,0.9773,ALTA,9,Interdepartamental,Maquinaria,08:00,12:00,985.0,788,3088303,En Ruta,2026-05-24 13:17:58.357779
+18,Alberto Suarez,Calle 35 #49-12,Bogotá,Medellín,6.244409,-75.582658,2.05,0.0511,ALTA,10,Interdepartamental,Libros,10:00,15:00,420.0,336,144383,En Ruta,2026-05-24 13:17:58.357779
+19,Jose Torres,Calle 8 #39-83,Bogotá,Cali,3.446604,-76.549437,0.77,0.0194,MEDIA,19,Interdepartamental,Documentos,08:00,17:00,480.0,384,92001,Pendiente,2026-05-24 13:17:58.357779
+20,Patricia Rios,Calle 172 #34-25,Bogotá,Bucaramanga,7.136965,-73.110679,33.96,0.5288,MEDIA,24,Interdepartamental,Electrodoméstico,08:00,20:00,410.0,328,2515759,Pendiente,2026-05-24 13:17:58.357779
+21,Claudia Vargas,Calle 166 #7-29,Bogotá,Bucaramanga,7.129505,-73.133323,17.51,0.5411,MEDIA,24,Interdepartamental,Electrodoméstico,10:00,22:00,410.0,328,2374218,Entregado,2026-05-24 13:17:58.357779
+22,Jose Torres,Calle 141 #49-31,Bogotá,Cali,3.432404,-76.540849,32.17,1.1786,MEDIA,17,Interdepartamental,Electrodoméstico,08:00,16:00,480.0,384,1346318,Entregado,2026-05-24 13:17:58.357779
+23,Carlos Rodriguez,Calle 49 #9-17,Bogotá,Barranquilla,10.970903,-74.807108,0.25,0.0185,URGENTE,7,Interdepartamental,Documentos,10:00,13:00,985.0,788,21878,Entregado,2026-05-24 13:17:58.357779
+24,Ana Martinez,Calle 124 #44-75,Bogotá,Medellín,6.242116,-75.579102,1.69,0.0211,BAJA,35,Interdepartamental,Electrónico,08:00,25:00,420.0,336,847119,Entregado,2026-05-24 13:17:58.357779
+25,Andres Navarro,Calle 130 #48-71,Bogotá,Barranquilla,10.954624,-74.809113,47.32,1.2547,URGENTE,5,Interdepartamental,Maquinaria,06:00,08:00,985.0,788,2454979,En Ruta,2026-05-24 13:17:58.357779
+26,Gloria Paez,Calle 119 #14-68,Bogotá,Medellín,6.244292,-75.571224,22.04,0.8919,URGENTE,4,Interdepartamental,Electrodoméstico,09:00,11:00,420.0,336,703924,Entregado,2026-05-24 13:17:58.357779
+27,Alberto Suarez,Calle 122 #46-32,Bogotá,Barranquilla,10.956255,-74.776467,35.27,0.5838,MEDIA,23,Interdepartamental,Maquinaria,10:00,21:00,985.0,788,1844167,En Ruta,2026-05-24 13:17:58.357779
+28,Andres Navarro,Calle 81 #49-41,Bogotá,Medellín,6.232031,-75.563792,15.22,0.4072,URGENTE,4,Interdepartamental,Materiales,10:00,12:00,420.0,336,242565,Entregado,2026-05-24 13:17:58.357779
+29,Gloria Paez,Calle 35 #24-2,Bogotá,Medellín,6.242293,-75.571194,47.35,1.09,BAJA,45,Interdepartamental,Maquinaria,07:00,29:00,420.0,336,2649671,Pendiente,2026-05-24 13:17:58.357779
+30,Carmen Soto,Calle 52 #9-15,Bogotá,Barranquilla,10.964241,-74.789217,2.34,0.0338,BAJA,37,Interdepartamental,Electrónico,09:00,27:00,985.0,788,1652376,En Ruta,2026-05-24 13:17:58.357779
+31,Isabel Romero,Calle 69 #49-15,Medellín,Medellín,6.220722,-75.515204,4.7,0.0709,BAJA,45,Local,Libros,10:00,32:00,25.4,20,195024,Pendiente,2026-05-24 13:17:58.357779
+32,Gloria Paez,Calle 97 #33-82,Medellín,Medellín,6.200475,-75.651137,55.1,1.6695,ALTA,10,Local,Maquinaria,09:00,14:00,23.1,18,4777549,Entregado,2026-05-24 13:17:58.357779
+33,Luis Fernandez,Calle 86 #11-30,Medellín,Medellín,6.19703,-75.578313,19.09,0.4364,BAJA,24,Local,Electrodoméstico,08:00,20:00,6.5,5,536684,Pendiente,2026-05-24 13:17:58.357779
+34,Miguel Daza,Calle 28 #24-33,Medellín,Medellín,6.295399,-75.525671,0.74,0.0173,BAJA,40,Local,Documentos,08:00,28:00,19.0,15,42318,Entregado,2026-05-24 13:17:58.357779
+35,Fernando Mora,Calle 118 #16-47,Medellín,Medellín,6.233157,-75.645116,4.13,0.0606,MEDIA,17,Local,Libros,08:00,16:00,18.7,14,62704,Pendiente,2026-05-24 13:17:58.357779
+36,Valentina Lozano,Calle 54 #45-26,Medellín,Medellín,6.195764,-75.521997,34.59,0.3773,MEDIA,13,Local,Electrodoméstico,07:00,13:00,20.7,16,507175,Entregado,2026-05-24 13:17:58.357779
+37,Jose Torres,Calle 51 #10-62,Medellín,Medellín,6.157696,-75.498085,25.05,0.5133,URGENTE,5,Local,Materiales,07:00,09:00,14.0,11,858986,En Ruta,2026-05-24 13:17:58.357779
+38,Valentina Lozano,Calle 147 #41-16,Medellín,Medellín,6.285214,-75.573455,3.73,0.0439,ALTA,11,Local,Libros,09:00,14:00,16.1,12,148919,Pendiente,2026-05-24 13:17:58.357779
+39,Miguel Daza,Calle 118 #7-78,Medellín,Medellín,6.263137,-75.587486,0.66,0.0248,ALTA,9,Local,Ropa,10:00,14:00,8.5,6,199331,Entregado,2026-05-24 13:17:58.357779
+40,Ricardo Pena,Calle 57 #40-53,Medellín,Medellín,6.158998,-75.588392,36.29,1.36,ALTA,12,Local,Maquinaria,07:00,13:00,26.0,20,4368284,En Ruta,2026-05-24 13:17:58.357779
+41,Claudia Vargas,Calle 89 #34-90,Medellín,Bogotá,4.694449,-74.065838,0.26,0.0135,ALTA,11,Interdepartamental,Documentos,09:00,14:00,420.0,336,71413,En Ruta,2026-05-24 13:17:58.357779
+42,Ricardo Pena,Calle 38 #31-84,Medellín,Bogotá,4.713353,-74.080112,58.63,1.4651,BAJA,40,Interdepartamental,Maquinaria,06:00,26:00,420.0,336,2751321,Entregado,2026-05-24 13:17:58.357779
+43,Alberto Suarez,Calle 173 #14-83,Medellín,Barranquilla,10.973778,-74.810131,28.51,0.8675,MEDIA,22,Interdepartamental,Electrodoméstico,09:00,20:00,700.0,560,580175,En Ruta,2026-05-24 13:17:58.357779
+44,Luis Fernandez,Calle 126 #12-57,Medellín,Cali,3.441236,-76.536451,1.12,0.0358,BAJA,46,Interdepartamental,Ropa,08:00,31:00,430.0,344,138505,Entregado,2026-05-24 13:17:58.357779
+45,Maria Gomez,Calle 163 #14-11,Medellín,Bogotá,4.72362,-74.084626,14.08,0.2273,URGENTE,8,Interdepartamental,Materiales,07:00,11:00,420.0,336,973386,Pendiente,2026-05-24 13:17:58.357779
+46,Isabel Romero,Calle 123 #13-2,Medellín,Barranquilla,10.956099,-74.78114,36.4,1.0826,URGENTE,7,Interdepartamental,Electrodoméstico,07:00,10:00,700.0,560,2020654,En Ruta,2026-05-24 13:17:58.357779
+47,Maria Gomez,Calle 52 #30-20,Medellín,Barranquilla,10.947616,-74.786607,26.68,0.6527,URGENTE,7,Interdepartamental,Materiales,10:00,13:00,700.0,560,496562,Pendiente,2026-05-24 13:17:58.357779
+48,Carlos Rodriguez,Calle 34 #25-86,Medellín,Cali,3.460191,-76.54463,27.13,0.4385,MEDIA,24,Interdepartamental,Materiales,07:00,19:00,430.0,344,894860,En Ruta,2026-05-24 13:17:58.357779
+49,Valentina Lozano,Calle 166 #4-36,Medellín,Bogotá,4.699686,-74.079523,2.99,0.0599,MEDIA,15,Interdepartamental,Libros,06:00,13:00,420.0,336,107424,Pendiente,2026-05-24 13:17:58.358780
+50,Carmen Soto,Calle 95 #4-72,Medellín,Bogotá,4.722905,-74.074059,27.33,0.9792,MEDIA,14,Interdepartamental,Electrodoméstico,10:00,17:00,420.0,336,1790873,En Ruta,2026-05-24 13:17:58.358780
+51,Isabel Romero,Calle 184 #7-72,Medellín,Bucaramanga,7.122827,-73.116003,53.01,1.5041,ALTA,9,Interdepartamental,Maquinaria,10:00,14:00,320.0,256,3252541,En Ruta,2026-05-24 13:17:58.358780
+52,Alberto Suarez,Calle 21 #15-31,Medellín,Cali,3.457959,-76.515096,24.36,0.3548,URGENTE,6,Interdepartamental,Electrodoméstico,10:00,13:00,430.0,344,2697327,Pendiente,2026-05-24 13:17:58.358780
+53,Lucia Mendez,Calle 14 #13-67,Medellín,Barranquilla,10.951451,-74.806772,25.53,0.851,MEDIA,12,Interdepartamental,Electrodoméstico,09:00,15:00,700.0,560,535443,Pendiente,2026-05-24 13:17:58.358780
+54,Ricardo Pena,Calle 98 #39-79,Medellín,Bogotá,4.726876,-74.061484,17.85,0.9334,MEDIA,16,Interdepartamental,Electrodoméstico,08:00,16:00,420.0,336,2509356,Pendiente,2026-05-24 13:17:58.358780
+55,Miguel Daza,Calle 110 #17-81,Medellín,Bogotá,4.694185,-74.087768,16.79,0.3569,ALTA,8,Interdepartamental,Electrodoméstico,06:00,10:00,420.0,336,2961329,Entregado,2026-05-24 13:17:58.358780
+56,Miguel Daza,Calle 49 #49-49,Cali,Cali,3.393188,-76.507998,2.73,0.029,ALTA,11,Local,Electrónico,09:00,14:00,17.9,14,1035159,Pendiente,2026-05-24 13:17:58.358780
+57,Carlos Rodriguez,Calle 145 #39-64,Cali,Cali,3.512311,-76.61223,42.51,0.948,ALTA,11,Local,Maquinaria,08:00,13:00,23.5,18,3884487,En Ruta,2026-05-24 13:17:58.358780
+58,Ramon Castro,Calle 158 #26-35,Cali,Cali,3.400561,-76.487077,14.22,0.2753,BAJA,46,Local,Muebles,10:00,33:00,29.0,23,451142,Pendiente,2026-05-24 13:17:58.358780
+59,Ana Martinez,Calle 66 #28-77,Cali,Cali,3.44905,-76.543545,0.76,0.034,ALTA,8,Local,Electrónico,09:00,13:00,11.0,8,304118,Entregado,2026-05-24 13:17:58.358780
+60,Sofia Rueda,Calle 10 #48-51,Cali,Cali,3.419021,-76.563036,53.88,1.3818,ALTA,11,Local,Maquinaria,07:00,12:00,24.4,19,2998445,En Ruta,2026-05-24 13:17:58.358780
+61,Andres Navarro,Calle 17 #23-95,Cali,Cali,3.437982,-76.605462,0.38,0.0146,BAJA,27,Local,Documentos,08:00,21:00,27.5,22,64407,En Ruta,2026-05-24 13:17:58.358780
+62,Ricardo Pena,Calle 9 #23-92,Cali,Cali,3.531584,-76.466966,51.78,1.0603,ALTA,8,Local,Maquinaria,06:00,10:00,7.1,5,4144176,Entregado,2026-05-24 13:17:58.358780
+63,Carmen Soto,Calle 49 #38-36,Cali,Cali,3.532682,-76.57245,38.03,0.9592,MEDIA,17,Local,Electrodoméstico,06:00,14:00,19.4,15,767732,En Ruta,2026-05-24 13:17:58.358780
+64,Andres Navarro,Calle 114 #6-81,Cali,Bogotá,4.693003,-74.060524,36.12,1.6756,MEDIA,18,Interdepartamental,Maquinaria,06:00,15:00,480.0,384,1956905,Pendiente,2026-05-24 13:17:58.358780
+65,Isabel Romero,Calle 186 #7-57,Cali,Medellín,6.254207,-75.585501,11.25,0.2436,URGENTE,7,Interdepartamental,Muebles,06:00,09:00,430.0,344,579135,En Ruta,2026-05-24 13:17:58.358780
+66,Ricardo Pena,Calle 77 #34-35,Cali,Bucaramanga,7.139226,-73.12418,47.61,1.4857,ALTA,9,Interdepartamental,Maquinaria,10:00,14:00,650.0,520,1598310,En Ruta,2026-05-24 13:17:58.358780
+67,Miguel Daza,Calle 29 #20-59,Cali,Barranquilla,10.983228,-74.791106,17.76,0.7583,ALTA,11,Interdepartamental,Materiales,06:00,11:00,910.0,728,953850,Entregado,2026-05-24 13:17:58.358780
+68,Andres Navarro,Calle 186 #36-71,Cali,Bucaramanga,7.127958,-73.129125,5.24,0.0417,ALTA,8,Interdepartamental,Alimentos,08:00,12:00,650.0,520,252561,En Ruta,2026-05-24 13:17:58.358780
+69,Isabel Romero,Calle 31 #47-96,Cali,Medellín,6.24132,-75.567383,38.55,0.6486,MEDIA,22,Interdepartamental,Electrodoméstico,08:00,19:00,430.0,344,1627395,Pendiente,2026-05-24 13:17:58.358780
+70,Andres Navarro,Calle 92 #24-20,Cali,Medellín,6.249276,-75.572859,1.62,0.0553,MEDIA,22,Interdepartamental,Libros,07:00,18:00,430.0,344,158558,Pendiente,2026-05-24 13:17:58.358780
+71,Isabel Romero,Calle 6 #10-32,Cali,Bogotá,4.730827,-74.091678,36.59,1.1745,ALTA,11,Interdepartamental,Maquinaria,09:00,14:00,480.0,384,3192484,Entregado,2026-05-24 13:17:58.358780
+72,Luis Fernandez,Calle 121 #42-76,Cali,Medellín,6.225265,-75.576852,0.74,0.0076,ALTA,9,Interdepartamental,Documentos,07:00,11:00,430.0,344,38800,Pendiente,2026-05-24 13:17:58.358780
+73,Miguel Daza,Calle 11 #9-65,Cali,Barranquilla,10.968655,-74.792441,29.23,1.0444,MEDIA,18,Interdepartamental,Maquinaria,10:00,19:00,910.0,728,1600506,Entregado,2026-05-24 13:17:58.358780
+74,Ana Martinez,Calle 31 #34-54,Cali,Barranquilla,10.974596,-74.785077,1.04,0.0366,MEDIA,14,Interdepartamental,Electrónico,09:00,16:00,910.0,728,380746,Pendiente,2026-05-24 13:17:58.358780
+75,Ana Martinez,Calle 163 #3-11,Cali,Barranquilla,10.967244,-74.788464,28.31,0.4034,BAJA,33,Interdepartamental,Materiales,06:00,22:00,910.0,728,775840,En Ruta,2026-05-24 13:17:58.358780
+76,Diego Herrera,Calle 39 #20-9,Barranquilla,Barranquilla,10.892878,-74.837079,19.92,0.4861,BAJA,35,Local,Materiales,06:00,23:00,11.0,8,606172,Entregado,2026-05-24 13:17:58.358780
+77,Claudia Vargas,Calle 28 #30-10,Barranquilla,Barranquilla,10.964634,-74.751293,10.38,0.7212,MEDIA,13,Local,Materiales,08:00,14:00,26.0,20,362750,Entregado,2026-05-24 13:17:58.358780
+78,Ana Martinez,Calle 49 #37-45,Barranquilla,Barranquilla,10.951733,-74.777941,10.8,0.4358,BAJA,32,Local,Materiales,10:00,26:00,15.1,12,573514,Entregado,2026-05-24 13:17:58.358780
+79,Maria Gomez,Calle 118 #36-72,Barranquilla,Barranquilla,10.960202,-74.860212,2.16,0.045,URGENTE,5,Local,Electrónico,09:00,11:00,20.5,16,1095027,En Ruta,2026-05-24 13:17:58.358780
+80,Alberto Suarez,Calle 183 #1-2,Barranquilla,Barranquilla,11.001896,-74.73708,3.23,0.0316,BAJA,44,Local,Libros,08:00,30:00,18.9,15,158354,En Ruta,2026-05-24 13:17:58.358780
+81,Ana Martinez,Calle 112 #41-19,Barranquilla,Barranquilla,10.984667,-74.76318,28.99,0.5707,BAJA,43,Local,Electrodoméstico,09:00,30:00,21.5,17,2620554,Entregado,2026-05-24 13:17:58.358780
+82,Ramon Castro,Calle 55 #16-61,Barranquilla,Medellín,6.262227,-75.576955,16.15,0.5927,ALTA,8,Interdepartamental,Materiales,08:00,12:00,700.0,560,452901,Entregado,2026-05-24 13:17:58.358780
+83,Maria Gomez,Calle 20 #28-78,Barranquilla,Cali,3.453904,-76.522046,25.61,0.2451,MEDIA,22,Interdepartamental,Materiales,09:00,20:00,910.0,728,660605,Pendiente,2026-05-24 13:17:58.358780
+84,Ramon Castro,Calle 85 #21-14,Barranquilla,Bucaramanga,7.133894,-73.129639,9.13,0.0647,MEDIA,16,Interdepartamental,Alimentos,07:00,15:00,540.0,432,421306,En Ruta,2026-05-24 13:17:58.358780
+85,Sofia Rueda,Calle 161 #32-35,Barranquilla,Bucaramanga,7.108649,-73.140719,31.78,1.1716,URGENTE,6,Interdepartamental,Electrodoméstico,06:00,09:00,540.0,432,1081195,En Ruta,2026-05-24 13:17:58.358780
+86,Alberto Suarez,Calle 45 #48-73,Barranquilla,Medellín,6.247727,-75.60099,15.58,0.9418,MEDIA,13,Interdepartamental,Electrodoméstico,10:00,16:00,700.0,560,903718,En Ruta,2026-05-24 13:17:58.358780
+87,Sofia Rueda,Calle 128 #8-53,Barranquilla,Cali,3.456088,-76.530057,20.76,0.7726,MEDIA,18,Interdepartamental,Materiales,10:00,19:00,910.0,728,737836,En Ruta,2026-05-24 13:17:58.358780
+88,Carlos Rodriguez,Calle 26 #14-19,Barranquilla,Bogotá,4.700834,-74.061209,19.55,0.5761,ALTA,8,Interdepartamental,Materiales,10:00,14:00,985.0,788,573586,Entregado,2026-05-24 13:17:58.358780
+89,Sofia Rueda,Calle 158 #35-62,Barranquilla,Bogotá,4.698427,-74.068273,14.6,0.4712,ALTA,10,Interdepartamental,Muebles,06:00,11:00,985.0,788,499059,Pendiente,2026-05-24 13:17:58.358780
+90,Miguel Daza,Calle 191 #20-11,Barranquilla,Medellín,6.26141,-75.570733,10.22,0.7491,URGENTE,6,Interdepartamental,Materiales,09:00,12:00,700.0,560,579642,Entregado,2026-05-24 13:17:58.358780
+91,Ramon Castro,Calle 152 #19-70,Bucaramanga,Bucaramanga,7.179457,-73.207254,28.37,1.2573,MEDIA,14,Local,Maquinaria,09:00,16:00,19.6,15,2404314,Entregado,2026-05-24 13:17:58.358780
+92,Carmen Soto,Calle 7 #34-32,Bucaramanga,Bucaramanga,7.05821,-73.163937,2.49,0.2441,URGENTE,8,Local,Alimentos,06:00,10:00,18.5,14,374313,Pendiente,2026-05-24 13:17:58.358780
+93,Patricia Rios,Calle 3 #47-51,Bucaramanga,Bucaramanga,7.165366,-73.137398,2.27,0.0438,ALTA,11,Local,Electrónico,07:00,12:00,19.1,15,376773,Pendiente,2026-05-24 13:17:58.358780
+94,Ana Martinez,Calle 190 #19-16,Bucaramanga,Bucaramanga,7.124699,-73.084425,2.81,0.2462,BAJA,43,Local,Alimentos,07:00,28:00,26.9,21,259813,Entregado,2026-05-24 13:17:58.358780
+95,Patricia Rios,Calle 187 #39-28,Bucaramanga,Cali,3.460009,-76.532856,16.11,0.4059,URGENTE,6,Interdepartamental,Muebles,06:00,09:00,650.0,520,441405,Entregado,2026-05-24 13:17:58.358780
+96,Miguel Daza,Calle 155 #15-55,Bucaramanga,Cali,3.466773,-76.535128,19.18,0.4262,BAJA,45,Interdepartamental,Materiales,07:00,29:00,650.0,520,281245,Pendiente,2026-05-24 13:17:58.358780
+97,Andres Navarro,Calle 175 #38-39,Bucaramanga,Medellín,6.233495,-75.591275,59.1,0.9318,MEDIA,19,Interdepartamental,Maquinaria,06:00,15:00,320.0,256,1347432,Pendiente,2026-05-24 13:17:58.358780
+98,Andres Navarro,Calle 129 #12-79,Bucaramanga,Barranquilla,10.946815,-74.791608,52.36,0.6387,ALTA,9,Interdepartamental,Maquinaria,07:00,11:00,540.0,432,2265489,Pendiente,2026-05-24 13:17:58.359781
+99,Valentina Lozano,Calle 82 #19-19,Bucaramanga,Cali,3.45234,-76.523056,10.09,0.3926,URGENTE,7,Interdepartamental,Materiales,10:00,13:00,650.0,520,271375,En Ruta,2026-05-24 13:17:58.359781
+100,Claudia Vargas,Calle 121 #17-69,Bucaramanga,Cali,3.466766,-76.523132,38.11,0.3889,MEDIA,19,Interdepartamental,Electrodoméstico,10:00,19:00,650.0,520,2661074,Pendiente,2026-05-24 13:17:58.359781
